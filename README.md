@@ -13,5 +13,9 @@ Keybinds (available in the main window):
 
   D disable V-Sync
 
+  Left click remove live cell (if the program is paused)
 
+  Right click add live cell (if the program is paused)
+  
+  
 I know, the keybinds sucks.
