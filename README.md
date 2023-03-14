@@ -1,6 +1,8 @@
 # Game-Of-Life-with-LWJGL-3.3.2
 Keybinds (available in the main window):
 
+  Esc close the programm
+
   O start/unpause the programm
 
   P pause the program
